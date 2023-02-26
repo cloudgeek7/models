@@ -6,3 +6,6 @@ shapely>=1.8.1
 apache_beam>=2.37.0
 matplotlib>=3.5.1
 notebook>=6.4.10
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
