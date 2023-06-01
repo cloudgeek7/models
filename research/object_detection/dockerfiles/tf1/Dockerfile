@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.12.0rc1-jupyter
+FROM tensorflow/tensorflow:2.13.0rc1-jupyter
 
 ARG DEBIAN_FRONTEND=noninteractive
 
